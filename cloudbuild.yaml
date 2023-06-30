@@ -20,3 +20,4 @@ steps:
       - '--image=asia-southeast2-docker.pkg.dev/$PROJECT_ID/milky-way/sveltekit-cd:1.0.0'
       - '--platform=managed'
       - '--region=asia-southeast2'
+      - '--port=3000'
